@@ -25,7 +25,7 @@
 <!-- Sub-Ttile 2 -->
 <h2> 📉 Github Status 📉  </h2>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KKM96)](https://github.com/KKM96/github-readme-stats)&nbsp;[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KKM96&include_all_commits=true&hide=prs)](https://github.com/KKM96/github-readme-stats)
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:98FB98,100:32CD32&section=footer&height=100)
