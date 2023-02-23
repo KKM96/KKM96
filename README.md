@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/km12396@gmail.com-FF0000?style=flat&logo=Gmail&logoColor=white"/>
 
 📫 dyd2003@naver.com 📫 <p></p>
-📫 km12396@gmail.com 📫 <p></p>
-📓 Notion&nbsp;log&nbsp;:&nbsp;https://locrian-plot-a4a.notion.site/My-Programmer-Life-b3c980d299fd401b92460ac6e790842e 📓
 
 <!-- Sub-Title 1 -->
 <h2> 📝 Studying... 📝 </h2>
