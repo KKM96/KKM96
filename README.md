@@ -8,7 +8,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKKM96&count_bg=%237CFC00&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://locrian-plot-a4a.notion.site/My-Programmer-Life-b3c980d299fd401b92460ac6e790842e"><img src="https://img.shields.io/badge/Notion-DCDCDC?style=flat&logo=Notion&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/dyd2003@naver.com-00FF00?style=flat&logo=Naver&logoColor=white"/>
-<img src="https://img.shields.io/badge/km12396@gmail.com-FF0000?style=flat&logo=Gmail&logoColor=white"/>
 
 📫 dyd2003@naver.com 📫 <p></p>
 
